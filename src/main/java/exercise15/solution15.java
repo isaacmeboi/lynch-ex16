@@ -1,6 +1,6 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 15 Solution
- *  Copyright 2021 Isaac Lynch
+   UCF COP3330 Fall 2021 Assignment 15 Solution
+   Copyright 2021 Isaac Lynch
  */
 
 package exercise15;
