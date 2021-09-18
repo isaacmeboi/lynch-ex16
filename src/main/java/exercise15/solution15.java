@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 15 Solution
+ *  Copyright 2021 Isaac Lynch
+ */
+
 package exercise15;
 
 
@@ -12,7 +17,7 @@ class Passwords {
 
         System.out.print("Type in username: ");
         Scanner sc = new Scanner(System.in);
-        this.user = sc.next();
+
         System.out.print("Type in password: ");
         this.password = sc.next();
         System.out.print("Retype in password: ");
