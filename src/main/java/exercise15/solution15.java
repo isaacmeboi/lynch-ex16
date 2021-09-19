@@ -9,15 +9,15 @@ package exercise15;
 import java.util.Scanner;
 
 class Passwords {
-    String user;
     String password;
     String password2;
+    String user;
 
     public void scn() {
 
         System.out.print("Type in username: ");
         Scanner sc = new Scanner(System.in);
-
+        this.user = sc.next();
         System.out.print("Type in password: ");
         this.password = sc.next();
         System.out.print("Retype in password: ");
